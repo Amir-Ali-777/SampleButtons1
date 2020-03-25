@@ -33,14 +33,14 @@
             android:text="First"
             android:layout_below="@+id/tv2"
             android:layout_marginTop="40dp"
-            android:layout_marginLeft="100dp"
+            android:layout_marginLeft="150dp"
             android:layout_height="wrap_content"/>
 
         <Button
             android:id="@+id/button2"
             android:layout_below="@+id/button1"
             android:layout_marginTop="10dp"
-            android:layout_marginLeft="100dp"
+            android:layout_marginLeft="150dp"
             android:layout_width="wrap_content"
             android:textColor="#ff347f"
             android:text="Second"
@@ -50,7 +50,7 @@
         <Button
             android:id="@+id/button3"
             android:layout_below="@+id/button2"
-            android:layout_marginLeft="100dp"
+            android:layout_marginLeft="150dp"
             android:layout_marginTop="10dp"
             android:layout_width="wrap_content"
             android:textColor="#ff347f"
@@ -62,7 +62,7 @@
             android:id="@+id/button4"
             android:layout_marginTop="10dp"
             android:layout_below="@+id/button3"
-            android:layout_marginLeft="100dp"
+            android:layout_marginLeft="150dp"
             android:layout_width="wrap_content"
             android:textColor="#ff347f"
             android:text="Fourth"
@@ -74,7 +74,7 @@
             android:layout_width="wrap_content"
             android:textColor="#ff347f"
             android:layout_below="@+id/button4"
-            android:layout_marginLeft="100dp"
+            android:layout_marginLeft="150dp"
             android:layout_marginTop="10dp"
             android:text="Fifth"
             android:layout_gravity="center_horizontal"
